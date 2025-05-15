@@ -128,7 +128,7 @@ With additional resources, we plan to:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/bone-fracture-detection.git
+git clone https://github.com/1198-nov/Bone-Fracture-Detection-Using-Deep-Learning
 cd bone-fracture-detection
 
 # Install dependencies
